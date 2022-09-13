@@ -8,4 +8,4 @@ commonLabels:
 
 resources:
   - dynatrace-ns.yaml
-  - andrew.yaml
+  - andrew-ns.yaml
